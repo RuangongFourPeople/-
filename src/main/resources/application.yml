@@ -1,0 +1,13 @@
+
+server:
+  port: 8081
+
+spring:
+  servlet:
+    multipart:
+      max-file-size: 10MB
+      max-request-size: 30MB
+
+file:
+  path: D:/Github/testHTML/uploadFiles/
+
